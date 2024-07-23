@@ -1,0 +1,7 @@
+group_imports = "One"
+hex_literal_case = "Upper"
+imports_granularity = "One"
+match_block_trailing_comma = true
+reorder_impl_items = true
+tab_spaces = 2
+use_field_init_shorthand = true
